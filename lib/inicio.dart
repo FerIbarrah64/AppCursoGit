@@ -35,7 +35,7 @@ class Inicio extends StatelessWidget {
                     Navigator.pushNamed(context, 'buttons_show_sql');
                   },
                   color: Colors.grey[200],
-                  child: const Text("Ir al PRINCIPIO")),
+                  child: const Text("Ir al PRINCIPIOSSSS")),
             ],
           ),
         ),
