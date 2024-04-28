@@ -9,7 +9,7 @@ class Inicio extends StatelessWidget {
       appBar: AppBar(
         title: const Center(
           child: Text(
-            'Muebleria de Codificadores',
+            'Muebleria NEW CODDERS',
             style: TextStyle(
               color: Colors.white,
             ),
