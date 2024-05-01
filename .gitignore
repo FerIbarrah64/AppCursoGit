@@ -1,0 +1,4 @@
+#imagenes que no queremos agregar.
+*.jpg
+*.jpge
+*.png
