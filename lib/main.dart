@@ -30,6 +30,7 @@ class MyApp extends StatelessWidget {
           elevation: 10,
           color: Colors.black12,
         ),
+        //Poniendole color al asunto
         colorScheme: ColorScheme.fromSwatch().copyWith(secondary: Colors.black),
         focusColor: Colors.grey,
       ),
